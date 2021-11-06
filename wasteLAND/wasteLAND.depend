@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636228337 source:/home/zac/Messing_With_C/wasteLAND/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
